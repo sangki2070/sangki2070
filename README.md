@@ -33,7 +33,6 @@
 <h3 align="center">🤴 Me 🤴</h3>
 <p align="center">
   <a href="https://velog.io/@sangki2070"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
- 
   <a href="mailto:sangki2070@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=as5427072@gmail.com"/></a>
 </p>
 <br>
