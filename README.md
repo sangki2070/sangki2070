@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>&nbsp 
   <br>
 </p>
 
