@@ -23,7 +23,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=as5427072)](https://velog.io/@sangki2070)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sangki2070)](https://velog.io/@sangki2070)
   
 </div>
   
